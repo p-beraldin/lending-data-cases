@@ -2,7 +2,7 @@
 
 ## Introduction
 
-If you are here, we already like you and see you as a good fit with our company. Now, we propose a challenge similar to the ones that we face on a daily basis.
+If you are here, we already like you and see you as a good fit for our company. Now, we propose a challenge similar to the ones that we face on a daily basis.
 
 The goal here is to assess your proficiency in SQL, data visualization, database management, and Python scripting. The goal is to analyze and manage data related to loan issuance in a bank.
 
@@ -10,7 +10,7 @@ Your task involves analyzing and managing this data to provide business insights
 
 ## The dataset
 
-The clients and loans tables translate the Lending operation of a Brazilian bank. All the loans have 90 days duration and no installments payments. The clients must pay at the pace that they see fit. The cost (interest) of the loan is fixed. The due amount of the loan is clearly stated for the client when the contract is issued. This means that it doesn't matter how fast the loan is repaid, the amount charged will remain unchanged.
+The clients and loans tables translate the Lending operation of a Brazilian bank. All the loans have 90 days duration and no installments payments. The clients must pay at the pace that they see fit. The cost (interest) of the loan is fixed. The due amount of the loan is clearly stated for the client when the contract is issued. For this example, let’s suppose that it doesn't matter how fast the loan is repaid, the amount charged will remain unchanged despite the interest rate.
 
 Consider the current date to be Jan 25 of 2024
 
