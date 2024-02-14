@@ -74,7 +74,10 @@ Consider the current date to be Jan 25 of 2024
 3. Develop an automated email service to remind users with ongoing loans about payments. Select the frequency and content as you see fit.
 4. Create an automated weekly email summarizing operation activities. Define the layout and information included.
 Submission
-5. To submit this case, email pedro.beraldin@cloudwalk.io with a link to a GitHub repository. In this repository, there must be a Jupyter Notebook with the answers for each of the questions. You can be creative in the way the Notebook is structured and how it interacts with the rest of the repository.
+
+## Case delivery
+
+To submit this case, email pedro.beraldin@cloudwalk.io with a link to a GitHub repository. In this repository, there must be a Jupyter Notebook with the answers for each of the questions. You can be creative in the way the Notebook is structured and how it interacts with the rest of the repository.
 
 ## Presentation
 
