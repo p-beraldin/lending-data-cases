@@ -57,13 +57,14 @@ Consider the current date to be Jan 25 of 2024
 
 ### SQL and Data Viz
 
-2. Identify the best month in terms of loan issuance. What was the quantity and amount lent in each month?
-3. Determine which batch had the best overall adherence?
-4. Do different interest rates lead to different loan outcomes in terms of default rate?
-5. Rank the best 10 and 10 worst clients. Explain your methodology for constructing this ranking.
-6. What is the default rate by month and by batch?
-7. Assess the profitability of this operation. Provide an analysis of the operation's timeline.
+1. Identify the best month in terms of loan issuance. What was the quantity and amount lent in each month?
+2. Which batch had the best overall adherence?
+3. Do different interest rates lead to different loan outcomes in terms of default rate?
+4. Rank the best 10 and 10 worst clients. Explain your methodology for constructing this ranking.
+5. What is the default rate by month and batch?
+6. Assess the profitability of this operation. Provide an analysis of the operation's timeline.
 
+> adherence: clients that got loans\
 > season: loan issuing month\
 > default rate: defaulted/issued loans
 
@@ -85,6 +86,6 @@ The presentation will be purely technical, focused on the case resolution.
 
 - Part I: Provide a comprehensive overview of the database tables and the nature of the data you will be handling.
 - Part II: Present your answers to the SQL and Data Viz session. Make a closing statement regarding the current status of this Lending operation.
-- Part II: Q&A
+- Part III: Q&A
 
 Good luck!
